@@ -1,0 +1,3 @@
+C:\Users\Giorgos\source\repos\Expenses\StopWatch\obj\Debug\net5.0-windows\StopWatch.csprojAssemblyReference.cache
+C:\Users\Giorgos\source\repos\Expenses\StopWatch\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Giorgos\source\repos\Expenses\StopWatch\obj\Debug\net5.0-windows\StopWatch_MarkupCompile.cache
