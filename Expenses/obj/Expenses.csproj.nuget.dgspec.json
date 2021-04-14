@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giorgos\\source\\repos\\Expenses\\Expenses\\Expenses.csproj": {}
+    "C:\\Users\\Giorgos\\Source\\Repos\\WpfCalc\\Expenses\\Expenses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giorgos\\source\\repos\\Expenses\\Expenses\\Expenses.csproj": {
+    "C:\\Users\\Giorgos\\Source\\Repos\\WpfCalc\\Expenses\\Expenses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giorgos\\source\\repos\\Expenses\\Expenses\\Expenses.csproj",
+        "projectUniqueName": "C:\\Users\\Giorgos\\Source\\Repos\\WpfCalc\\Expenses\\Expenses.csproj",
         "projectName": "Expenses",
-        "projectPath": "C:\\Users\\Giorgos\\source\\repos\\Expenses\\Expenses\\Expenses.csproj",
+        "projectPath": "C:\\Users\\Giorgos\\Source\\Repos\\WpfCalc\\Expenses\\Expenses.csproj",
         "packagesPath": "C:\\Users\\Giorgos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giorgos\\source\\repos\\Expenses\\Expenses\\obj\\",
+        "outputPath": "C:\\Users\\Giorgos\\Source\\Repos\\WpfCalc\\Expenses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Giorgos\\AppData\\Roaming\\NuGet\\NuGet.Config",
