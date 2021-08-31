@@ -92,10 +92,12 @@ namespace Expenses
             Application.Current.Shutdown();
         }
 
+
         private void Del_Click(object sender, RoutedEventArgs e)
         {
             tb.Text = "";
         }
+
 
         private void R_Click(object sender, RoutedEventArgs e)
         {
